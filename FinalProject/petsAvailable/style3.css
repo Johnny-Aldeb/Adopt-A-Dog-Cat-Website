@@ -1,0 +1,90 @@
+
+body{
+	
+	line-height: 30px;
+}
+
+
+h1{
+  
+  color: #272727;
+  font-size:  5.625rem;
+  font-family: 'Montserrat', sans-serif;
+}
+h2{
+
+  font-weight: normal;
+  color: #272727;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+p{
+  
+  font-size: 30px;
+}
+
+.left-content{
+	width: 50%;
+	height: 100%;
+	float: left;
+	margin-right: 40px;
+
+	
+	
+}
+.pets{
+float: left;
+margin: 5px;
+}
+
+.pet{
+	margin: 5px;
+height: 490px;
+}
+.pet1{
+	margin: 5px;
+	width: 330px;
+	height: 490px;
+}
+
+.pet2{
+	
+	float: left;
+	height: 490px;
+}
+.right-content{
+	
+float: left;
+}
+
+.wholelist{
+
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+
+
+
+
+}
+.list{
+	line-height: 50px;
+	color: #FF869E;
+
+}
+.list1{
+	line-height: 50px;
+	color: #42C2FF;
+}
+.list2{
+	line-height: 50px;
+	color: #FFB72B;
+
+}
+

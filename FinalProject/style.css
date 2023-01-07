@@ -1,0 +1,410 @@
+
+body{
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+  color: #40514E;
+}
+
+
+h1{
+  padding-top: 20px;
+  color: #66BFBF;
+  font-size:  5.625rem;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+
+  font-weight: normal;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+p{
+  
+  font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #40514E;
+}
+
+
+/* ---------- header -------------- */
+
+.logo{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 20px;
+}
+
+
+.photo{
+  width: 100%;
+  height: 435px;
+  border-radius: 10px;
+
+  
+
+}
+.top-cont{
+  text-align: center;
+
+}
+
+.dateTime{
+  position: absolute;
+  left: 1150PX;
+  font-size: 18px;
+
+  border: 2px dotted;
+  border-color: #85F4FF ;
+  background-color: #F9F9F9;
+   border-radius: 30px;
+   padding: 5px 10px;
+}
+
+
+/* ---------- menu bar -------------- */
+
+.menu-bar{
+  width: 300px;
+  height: 300px;
+  padding-left: 4px;
+  margin-top: 10px;
+font-family: 'Montserrat', sans-serif;
+float: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 3px;
+  padding-left: 0;
+
+  
+
+
+}
+
+.Main{
+
+  text-align: center;
+  background-color: #66BFBF;
+  color: white;
+ 
+  
+  list-style-type: none;
+  padding-bottom: 25px;
+  padding-left: 10px;
+  padding-top: 20px;
+  font-size: 1.5625em;
+   border-radius: 5px;
+ 
+
+
+
+}
+
+.navigation li {
+
+  list-style-type: none;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-top: 20px;
+  font-size: 1.5625em;
+  border-radius: 5px;
+  
+  
+}
+
+ li a {
+  display: block;
+
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+ li a:hover {
+  color: #66BFBF;
+  
+}
+
+
+
+
+
+
+/* ---------- content -------------- */
+
+.skills{
+  
+
+  height: 500px;
+
+  
+      width: 1000px;
+    margin-left: 350px;
+    position: absolute;
+    top: 790px;
+
+
+}
+.content1{
+  
+  margin-bottom: 150px;
+}
+
+.top{
+ 
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+  
+
+  
+
+}
+.bottom{
+ 
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+
+
+}
+
+/* ---------- footer -------------- */
+
+.footer{
+  position: absolute;
+  width: 100%;
+  height: 200px;
+  top: 1500px;
+  text-align: center;
+  background-color: #66BFBF;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+
+}
+
+.footer a:hover{
+  color: #eaf6f6;
+}
+
+
+/* ---------- Find a Dog/Cat -------------- */
+.form1{
+ border-color: #66BFBF;
+  
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F9F9F9;
+  margin-left: 350px;
+    margin-right: 100px;
+    padding-left: 17px;
+    margin-top: 20px;
+    border-radius: 30px;
+    font-size: 18px;
+  
+
+    
+}
+legend{
+  color:#66BFBF ;
+
+}
+
+.button{
+  background-color:#F9F9F9 ;
+  border-color: #66BFBF;
+  margin-top: 10px;
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 100px;
+  font-size: 17px;
+  
+
+}
+
+
+/* ---------- Have A Pet To Give Away -------------- */
+
+.form2{
+ border-color: #66BFBF;
+  
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F9F9F9;
+ 
+float: left;
+   margin-left: 100px;
+    margin-right: 50px;
+    padding-left: 17px;
+    margin-top: 5px;
+    border-radius: 30px;
+    font-size: 18px;
+
+  
+
+}
+
+.SignIn{
+  border-color: #66BFBF;
+  margin-top: 14px;
+  
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F9F9F9;
+float: left;
+width: 300px;
+height: 200px;
+ margin-top: 14px;
+ border-radius: 30px;
+ font-size: 15px;
+}
+
+.newaccount{
+
+  border-color: #66BFBF;
+  margin-top: 14px;
+  
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F9F9F9;
+float: left;
+width: 300px;
+height: 200px;
+ margin-top: 14px;
+ border-radius: 30px;
+ font-size: 15px;
+}
+
+
+
+/* ---------- Contact Us -------------- */
+.form3{
+ border-color: #66BFBF;
+  
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F9F9F9;
+ 
+float: left;
+   margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 17px;
+    margin-top: 10px;
+    border-radius: 30px;
+
+  
+
+}
+/* ---------- Browse Avaiable pets -------------- */
+
+/* .construction{
+  text-align: center;
+  position: absolute;
+  left: 530px;
+  top: 1000px;
+  border: 2px dotted;
+  border-color:#66BFBF ;
+  background-color: #F9F9F9;
+   border-radius: 30px;
+   padding: 10px 10px;
+}  */
+.pets{
+  width: 200px;
+}
+.dog1{
+  float: left;
+  text-align: center;
+  margin: 10px 200px 0px 150px;
+}
+
+.dog2{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 90px;
+
+}
+
+.cat1{
+  float: left;
+  
+  text-align: center;
+  margin: 0px 200px 0px 450px;
+
+}
+.cat2{
+  
+  
+
+    text-align: center;
+
+}
+
+.sorry{
+  text-align: center;
+}
+
+
+
+
+/* ---------- dog care -------------- */
+
+.title{
+  position: absolute;
+  left: 550px;
+    
+}
+ol{
+  list-style-type: decimal;
+}
+
+.CatDogCare-left1{
+  position: absolute;
+  left: 320px;
+ 
+  top: 1150px;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+
+}
+.CatDogCare-left2{
+  position: absolute;
+  left: 320px;
+  top: 900px;
+
+   font-family: 'Montserrat', sans-serif;
+   line-height: 2;
+
+}
+
+.CatDogCare-right1{
+  position: absolute;
+  left: 900px;
+  top: 1150px;
+
+   font-family: 'Montserrat', sans-serif;
+   line-height: 2;
+}
+.CatDogCare-right2{
+  position: absolute;
+  left: 900px;
+  top: 900px;
+  
+   font-family: 'Montserrat', sans-serif;
+   line-height: 2;
+}
+
+
+
+
+
+
+
+
