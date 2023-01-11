@@ -1,4 +1,4 @@
-# Adopt-A-Dog-Cat-Website: (HTML,CSS,JavaScript, PHP)
+# Adopt-A-Dog-Cat-Website: (HTML, CSS, JavaScript, PHP)
 a website for people who are looking to adopt a cat or a dog.
 
 website link:
